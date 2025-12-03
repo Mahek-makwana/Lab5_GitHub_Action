@@ -1,0 +1,22 @@
+# Ignore Python virtual environments
+venv/
+.venv/
+aivancity_env/
+slm_env/
+anaconda3/
+
+# Ignore system files
+*.pyc
+__pycache__/
+.DS_Store
+*.LOG*
+*.ini
+*.dat*
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore large unrelated folders
+Videos/
+VirtualBox VMs/
+
